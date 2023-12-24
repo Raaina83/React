@@ -1,0 +1,28 @@
+.task-btn{
+    margin: 1rem;
+    height: 2.5rem;
+    background-color: aqua;
+}
+
+.task-input{
+    width: 15rem;
+    height: 1.5rem;
+    border-radius: 0.5rem;
+}
+
+.task-list{
+    list-style-type: circle;
+    /* width: 5rem; */
+    text-align: left;
+    /* margin-top: 1rem; */
+}
+
+.dlt-btn{
+    height: 2.6rem;
+    margin-left: 1rem;
+    background-color: aqua;
+}
+
+.list{
+    margin-top: 1rem;
+}
